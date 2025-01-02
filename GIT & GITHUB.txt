@@ -9,3 +9,16 @@ GIT: GIT is a distributed version control system used to manage versions. It is 
      6. To verify, opene command prompt , write "git -v"
 
      open vs code--->terminal--->new terminal
+
+     1. git init
+     2. git add .
+     3. git commit -m "message"
+But for first time
+     git config --global user.name "yourusername"
+     git config --global user.email "youremail"
+
+
+     create a repository
+     git remote add origin https://github.com/prasad-bigdp/4pmhtmlcss.git
+
+     

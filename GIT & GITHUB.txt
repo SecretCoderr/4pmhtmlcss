@@ -7,3 +7,5 @@ GIT: GIT is a distributed version control system used to manage versions. It is 
      4. check whether "vscode as default editor" or not?
       5. next--->next---> next until final install
      6. To verify, opene command prompt , write "git -v"
+
+     open vs code--->terminal--->new terminal
